@@ -51,7 +51,6 @@
         <artifactId>jahia-modules</artifactId>
         <groupId>org.jahia.modules</groupId>        
         <version>7.2.3.0</version>
-	<relativePath/>
     </parent>
 
     <artifactId>dummy</artifactId>
@@ -62,8 +61,8 @@
 
     <scm>
 	<connection>scm:git:git@github.com:DameniMilo/test-module-dummy.git</connection>
-	<developerConnection>scm:git:git@github.com:DameniMilo/test-module-dummy.git</developerConnection>
-        <url>https://github.com/Jahia/test-module-dummy1</url>
+	    <developerConnection>scm:git:git@github.com:DameniMilo/test-module-dummy.git</developerConnection>
+        <url>https://github.com/DameniMilo/test-module-dummy</url>
         <tag>HEAD</tag>
     </scm>
     
